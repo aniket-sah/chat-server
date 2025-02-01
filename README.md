@@ -1,2 +1,6 @@
-# chat-server
-Implementation of multi-client chat server using plain TCP
+# tcp-messages
+Half Duplex like communication using raw TCP
+
+TODO:
+- Implement huffman encoding for compression
+- Implement application layer header
